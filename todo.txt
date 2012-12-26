@@ -1,1 +1,18 @@
 - Use ActiveAdmin: http://activeadmin.info/
+
+- page structure
+	- index (mashup of latest news, images & events)
+	- gallery (albums, images)
+	- news
+	- events (concerts, ...)
+	- contact
+	- links
+	- press
+	- sponsors
+	- discography?
+	- about
+		- about
+		- history
+		- leaders
+		- members
+	- program
