@@ -1,0 +1,13 @@
+sl:
+  errors:
+    messages:
+      blank: "Polje '%{attribute}'' ne sme biti prazno"
+      too_short: "Polje '%{attribute}'' je prekratko (minimalno %{count} znakov)"
+      too_long: "Polje '%{attribute}'' je predolgo (maksimalno %{count} znakov)"
+  activerecord:
+    models:
+      announcement: Novice
+    attributes:
+      announcement:
+        title: "Naslov"
+        content: "Vsebina"
